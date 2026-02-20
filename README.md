@@ -10,6 +10,7 @@ Peptify is a pioneering platform that combines biotechnology and blockchain to c
 
 - Website: [https://peptify.digital/](https://peptify.digital/)  
 - Twitter / X: [https://x.com/PeptifyChain](https://x.com/PeptifyChain)
+- CA : [7C3wKmWjN8m2wDNNp747FBkfaymLbezqeC1cDA5Hpump](https://pump.fun/coin/7C3wKmWjN8m2wDNNp747FBkfaymLbezqeC1cDA5Hpump)
 
 ---
 
